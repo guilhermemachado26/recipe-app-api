@@ -25,4 +25,4 @@ services:
         environment:
             - POSTGRES_DB=app
             - POSTGRES_USER=postgres
-            - POSGRES_PASSWORD=supersecretpassword
+            - POSTGRES_PASSWORD=supersecretpassword
